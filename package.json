@@ -1,0 +1,19 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "NodeJS server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jyfernandez/node-server.git"
+  },
+  "author": "Jomarey Fernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jyfernandez/node-server/issues"
+  },
+  "homepage": "https://github.com/jyfernandez/node-server#readme"
+}
