@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/jyfernandez/node-server#readme",
   "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
     "nodemon": "^2.0.12"
   }
 }
